@@ -1,0 +1,35 @@
+{
+  "git_commit": "538a1e78635d15d0b8ef37b9ca969d62e58be2b8",
+  "historical_snapshots": 19,
+  "historical_manifest_items": 1962,
+  "all_snapshot_hashes_verified": true,
+  "export_files": 2384,
+  "current_zip_files": 360,
+  "official_submodule_commit": "b974ac0121cb0be4d9dc867a9b1ca093688e4d3e",
+  "files": [
+    {
+      "name": "V23_all_iterations.bundle",
+      "bytes": 13692588,
+      "sha256": "7e75c7461df0abfacbc6f7a8408cee29067554d4185caa452c30667c7020d86a"
+    },
+    {
+      "name": "V23_current_source.zip",
+      "bytes": 17987431,
+      "sha256": "ff87c542b60830d6761fc91ab07c81f6ab9f55201799bfc9dabac4e5b4fb1d55"
+    },
+    {
+      "name": "README.txt",
+      "bytes": 6045,
+      "sha256": "9ae89dac8a91e7df382753838be0d8234353771c069eb6655fdf84f7a1c5fa00"
+    },
+    {
+      "name": "EXPORT_MANIFEST.json",
+      "bytes": 520377,
+      "sha256": "f49d5146dd2e1840c8d43cfa308342caa376f5d7b162c8348f457bba15a3fa9d"
+    }
+  ],
+  "source_project_modified": false,
+  "includes_verified_gui_status": true,
+  "prepared_by_packager": true,
+  "remote_upload_verified": false
+}
